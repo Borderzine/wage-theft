@@ -57,4 +57,6 @@ File (copy) | Source | Description | Nick in diary
 
 
 * All entries in WTD has them before the ordinance, not sure why.
-
+* The merged variable should only be seen to find out if there are
+  contracts used by the city. The repeated number of violations is just
+  how python merged legal name of the business. 
